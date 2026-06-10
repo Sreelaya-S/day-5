@@ -1,0 +1,23 @@
+.footer{
+    background: linear-gradient(135deg, #6f42c1, #8e44ad);
+    color: white;
+    padding: 40px 0;
+}
+
+.footer h4{
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.footer a{
+    color: white;
+    text-decoration: none;
+}
+
+.footer a:hover{
+    color: #e0d4ff;
+}
+
+.footer hr{
+    border-color: rgba(255,255,255,0.3);
+}

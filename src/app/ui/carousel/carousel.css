@@ -1,0 +1,33 @@
+.carousel-img{
+    height: 550px;
+    object-fit: cover;
+    filter: brightness(60%);
+}
+
+.carousel-caption{
+    bottom: 30%;
+}
+
+.carousel-caption h1{
+    font-size: 55px;
+    font-weight: bold;
+    color: white;
+}
+
+.carousel-caption p{
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.btn-light{
+    border-radius: 30px;
+    padding: 10px 30px;
+    font-weight: bold;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon{
+    background-color: rgba(0,0,0,0.4);
+    border-radius: 50%;
+    padding: 20px;
+}
